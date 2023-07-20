@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hi, I'm Alex
+subtitle: why you'd want to go on a date with me
 ---
+I'm a software developer / Dad / Husband / Gamer and I have the following qualities:
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
+- I love my children, my wife and our house
 - I'm extremely loyal to my family
+- I like to play computer games
 
 What else do you need?
 
